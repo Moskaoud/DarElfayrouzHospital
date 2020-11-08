@@ -1,0 +1,19 @@
+{
+  "name": "dar-elfayrouz",
+  "version": "1.0.0",
+  "description": "Dar Elfayrouz Hospital is a website offers doctor's appointments, departments, contacts, all you need about the hospital.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Mostafa Mohamed (MosKaoud)",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1"
+  }
+}
